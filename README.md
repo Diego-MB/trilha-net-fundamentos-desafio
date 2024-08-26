@@ -36,3 +36,10 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Implementação Realizada
+[X] Pedir para o usuário digitar a placa e armazenar na variável placa
+[X] Pedir para o usuário digitar a quantidade de horas que o veículo permaneceu estacionado
+[X] Realizar o seguinte cálculo: "precoInicial + precoPorHora * horas" para a variável valorTotal
+[X] Remover a placa digitada da lista de veículos
+[X] Realizar um laço de repetição, exibindo os veículos estacionados
